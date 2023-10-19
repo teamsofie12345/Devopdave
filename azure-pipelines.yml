@@ -46,5 +46,5 @@ steps:
     ConnectionType: 'AzureRM'
     azureSubscription: 'mine'
     appType: 'webApp'
-    WebAppName: 'projectxxxxxx'
+    WebAppName: 'tetetteteet'
     packageForLinux: '$(System.ArtifactsDirectory)/drop/*.zip'
